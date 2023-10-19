@@ -14,4 +14,4 @@ Xampp használata javasolt, Apache (80 port), és MySQL (3306 port) szolgáltat�
 
 ## Használati útmutató
 
-A Host/bin/Debug elérési úton található Host.exe futtatása rendszergazdaként javasolt. Ezután a WinForm nevű mappban (ez lesz a kliens) a bin/debug elérési úton a WinForm.exe elindításával a kliens megpróbál a host-ra csatlakozni.
+A Host/bin/Debug elérési úton található Host.exe futtatása rendszergazdaként javasolt. Ezután a WinForm nevű mappában (ez lesz a kliens) a bin/debug elérési úton a WinForm.exe elindításával a kliens megpróbál a host-ra csatlakozni.
