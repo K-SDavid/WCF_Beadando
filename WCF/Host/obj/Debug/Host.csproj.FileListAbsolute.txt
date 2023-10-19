@@ -1,0 +1,110 @@
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\Host.exe.config
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\Host.exe
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\Host.pdb
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\BouncyCastle.Crypto.dll
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\Google.Protobuf.dll
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\K4os.Compression.LZ4.dll
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\K4os.Hash.xxHash.dll
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\MySql.Data.dll
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\Renci.SshNet.dll
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\System.Buffers.dll
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\System.Memory.dll
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\System.Numerics.Vectors.dll
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\Ubiety.Dns.Core.dll
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\WCF.dll
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\Zstandard.Net.dll
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\WCF.pdb
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\WCF.dll.config
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\Google.Protobuf.pdb
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\Google.Protobuf.xml
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\K4os.Compression.LZ4.xml
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\K4os.Hash.xxHash.xml
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\MySql.Data.xml
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\Renci.SshNet.xml
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\System.Buffers.xml
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\System.Memory.xml
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\System.Numerics.Vectors.xml
+E:\wamp64\www\WCF beadandó\WCF\Host\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\wamp64\www\WCF beadandó\WCF\Host\obj\Debug\Host.csprojAssemblyReference.cache
+E:\wamp64\www\WCF beadandó\WCF\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+E:\wamp64\www\WCF beadandó\WCF\Host\obj\Debug\Host.csproj.CopyComplete
+E:\wamp64\www\WCF beadandó\WCF\Host\obj\Debug\Host.exe
+E:\wamp64\www\WCF beadandó\WCF\Host\obj\Debug\Host.pdb
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\Host.exe.config
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\Host.exe
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\Host.pdb
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\BouncyCastle.Crypto.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\Google.Protobuf.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\K4os.Compression.LZ4.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\K4os.Hash.xxHash.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\MySql.Data.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\Renci.SshNet.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\System.Buffers.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\System.Memory.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\System.Numerics.Vectors.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\Ubiety.Dns.Core.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\WCF.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\Zstandard.Net.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\WCF.pdb
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\WCF.dll.config
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\Google.Protobuf.pdb
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\Google.Protobuf.xml
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\K4os.Compression.LZ4.xml
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\K4os.Hash.xxHash.xml
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\MySql.Data.xml
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\Renci.SshNet.xml
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\System.Buffers.xml
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\System.Memory.xml
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\System.Numerics.Vectors.xml
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\obj\Debug\Host.csproj.CopyComplete
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\obj\Debug\Host.exe
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\Host\obj\Debug\Host.pdb
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\Host.exe.config
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\Host.exe
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\Host.pdb
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\BouncyCastle.Crypto.dll
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\Google.Protobuf.dll
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\K4os.Compression.LZ4.dll
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\K4os.Hash.xxHash.dll
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\MySql.Data.dll
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\Renci.SshNet.dll
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\System.Buffers.dll
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\System.Memory.dll
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\System.Numerics.Vectors.dll
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\Ubiety.Dns.Core.dll
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\WCF.dll
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\Zstandard.Net.dll
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\WCF.pdb
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\WCF.dll.config
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\Google.Protobuf.pdb
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\Google.Protobuf.xml
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\K4os.Compression.LZ4.xml
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\K4os.Hash.xxHash.xml
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\MySql.Data.xml
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\Renci.SshNet.xml
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\System.Buffers.xml
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\System.Memory.xml
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\System.Numerics.Vectors.xml
+C:\xampp\htdocs\WCF beadandó\WCF\Host\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\xampp\htdocs\WCF beadandó\WCF\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\xampp\htdocs\WCF beadandó\WCF\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+C:\xampp\htdocs\WCF beadandó\WCF\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\WCF beadandó\WCF\Host\obj\Debug\Host.csproj.CopyComplete
+C:\xampp\htdocs\WCF beadandó\WCF\Host\obj\Debug\Host.exe
+C:\xampp\htdocs\WCF beadandó\WCF\Host\obj\Debug\Host.pdb

@@ -1,0 +1,29 @@
+E:\wamp64\www\WCF beadandó\WinForm\bin\Debug\WinForm.exe.config
+E:\wamp64\www\WCF beadandó\WinForm\bin\Debug\WinForm.exe
+E:\wamp64\www\WCF beadandó\WinForm\bin\Debug\WinForm.pdb
+E:\wamp64\www\WCF beadandó\WinForm\obj\Debug\WinForm.csprojAssemblyReference.cache
+E:\wamp64\www\WCF beadandó\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+E:\wamp64\www\WCF beadandó\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+E:\wamp64\www\WCF beadandó\WinForm\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+E:\wamp64\www\WCF beadandó\WinForm\obj\Debug\WinForm.exe
+E:\wamp64\www\WCF beadandó\WinForm\obj\Debug\WinForm.pdb
+E:\wamp64\www\WCF beadandó\WinForm\obj\Debug\WinForm.MusicForm.resources
+E:\wamp64\www\WCF beadandó\WinForm\bin\Debug\LoginForm.resx
+E:\wamp64\www\WCF beadandó\WinForm\bin\Debug\LoginForm.cs
+E:\wamp64\www\WCF beadandó\WinForm\bin\Debug\LoginForm.Designer.cs
+E:\wamp64\www\WCF beadandó\WinForm\obj\Debug\WinForm.LoginForm.resources
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WinForm\bin\Debug\LoginForm.resx
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WinForm\bin\Debug\LoginForm.cs
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WinForm\bin\Debug\LoginForm.Designer.cs
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WinForm\bin\Debug\WinForm.exe.config
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WinForm\bin\Debug\WinForm.exe
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WinForm\bin\Debug\WinForm.pdb
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WinForm\obj\Debug\WinForm.csproj.AssemblyReference.cache
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WinForm\obj\Debug\WinForm.csproj.SuggestedBindingRedirects.cache
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WinForm\obj\Debug\WinForm.LoginForm.resources
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WinForm\obj\Debug\WinForm.MusicForm.resources
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WinForm\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WinForm\obj\Debug\WinForm.exe
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WinForm\obj\Debug\WinForm.pdb

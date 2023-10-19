@@ -1,0 +1,99 @@
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\WCF.dll.config
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\WCF.dll
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\WCF.pdb
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\BouncyCastle.Crypto.dll
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\Google.Protobuf.dll
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\K4os.Compression.LZ4.dll
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\K4os.Compression.LZ4.Streams.dll
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\K4os.Hash.xxHash.dll
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\MySql.Data.dll
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\Oracle.ManagedDataAccess.dll
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\Renci.SshNet.dll
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\System.Buffers.dll
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\System.Memory.dll
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\System.Numerics.Vectors.dll
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\Ubiety.Dns.Core.dll
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\Zstandard.Net.dll
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\Google.Protobuf.pdb
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\Google.Protobuf.xml
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\K4os.Compression.LZ4.xml
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\K4os.Compression.LZ4.Streams.xml
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\K4os.Hash.xxHash.xml
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\MySql.Data.xml
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\Renci.SshNet.xml
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\System.Buffers.xml
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\System.Memory.xml
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\System.Numerics.Vectors.xml
+E:\wamp64\www\WCF beadandó\WCF\WCF\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\wamp64\www\WCF beadandó\WCF\WCF\obj\Debug\WCF.csprojAssemblyReference.cache
+E:\wamp64\www\WCF beadandó\WCF\WCF\obj\Debug\WCF.csproj.CoreCompileInputs.cache
+E:\wamp64\www\WCF beadandó\WCF\WCF\obj\Debug\WCF.csproj.CopyComplete
+E:\wamp64\www\WCF beadandó\WCF\WCF\obj\Debug\WCF.dll
+E:\wamp64\www\WCF beadandó\WCF\WCF\obj\Debug\WCF.pdb
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\WCF.dll.config
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\WCF.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\WCF.pdb
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\BouncyCastle.Crypto.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\Google.Protobuf.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\K4os.Compression.LZ4.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\K4os.Compression.LZ4.Streams.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\K4os.Hash.xxHash.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\MySql.Data.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\Oracle.ManagedDataAccess.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\Renci.SshNet.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\System.Buffers.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\System.Memory.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\System.Numerics.Vectors.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\Ubiety.Dns.Core.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\Zstandard.Net.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\Google.Protobuf.pdb
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\Google.Protobuf.xml
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\K4os.Compression.LZ4.xml
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\K4os.Compression.LZ4.Streams.xml
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\K4os.Hash.xxHash.xml
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\MySql.Data.xml
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\Renci.SshNet.xml
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\System.Buffers.xml
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\System.Memory.xml
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\System.Numerics.Vectors.xml
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\obj\Debug\WCF.csproj.AssemblyReference.cache
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\obj\Debug\WCF.csproj.CoreCompileInputs.cache
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\obj\Debug\WCF.csproj.CopyComplete
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\obj\Debug\WCF.dll
+D:\0 Egyetem\3.félév\SZOP ea\WCF beadandó\WCF\WCF\obj\Debug\WCF.pdb
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\WCF.dll.config
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\WCF.dll
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\WCF.pdb
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\BouncyCastle.Crypto.dll
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\Google.Protobuf.dll
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\K4os.Compression.LZ4.dll
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\K4os.Compression.LZ4.Streams.dll
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\K4os.Hash.xxHash.dll
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\MySql.Data.dll
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\Oracle.ManagedDataAccess.dll
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\Renci.SshNet.dll
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\System.Buffers.dll
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\System.Memory.dll
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\System.Numerics.Vectors.dll
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\Ubiety.Dns.Core.dll
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\Zstandard.Net.dll
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\Google.Protobuf.pdb
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\Google.Protobuf.xml
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\K4os.Compression.LZ4.xml
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\K4os.Compression.LZ4.Streams.xml
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\K4os.Hash.xxHash.xml
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\MySql.Data.xml
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\Renci.SshNet.xml
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\System.Buffers.xml
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\System.Memory.xml
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\System.Numerics.Vectors.xml
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\obj\Debug\WCF.csproj.AssemblyReference.cache
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\obj\Debug\WCF.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\obj\Debug\WCF.csproj.CopyComplete
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\obj\Debug\WCF.dll
+C:\xampp\htdocs\WCF beadandó\WCF\WCF\obj\Debug\WCF.pdb
